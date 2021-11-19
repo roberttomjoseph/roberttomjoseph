@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roberttomjoseph
+- 👀 I’m interested in Data Science and Analytics.
+- 🌱 I’m currently learning Python and statistics.
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 You can reach me at: roberttomjoseph@gmail.com
